@@ -1,0 +1,58 @@
+* {
+    font-size: 100%;
+    font-family: Tahoma, Arial, sans-serif;
+}
+body {
+    background-color: #a5e089;
+    color: #32482b;
+    text-align: center;
+}
+h1, h2 {
+    font-family: Impact, Arial, sans-serif;
+}
+
+p, li {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+table {
+    background-color: #dcffc8;
+    border-style: solid;
+    border-width: 4px;
+}
+thead {
+    background-color: white;
+    border-bottom-width: 2px;
+}
+thead, td {
+    color: #32482b;
+    vertical-align: middle;
+}
+
+td {font-size: 20px;}
+
+tr:hover {background-color: #c9f3ff;}
+
+/*
+form {
+    margin: 0 auto;
+    width: 500px;
+    }
+ */
+
+input {
+    color: #668b55;
+}
+.btn {
+    background-color: #04aa3e;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 15px 2px;
+    cursor: pointer;
+}
